@@ -266,4 +266,4 @@ This repository serves as the official landing page for FATAL FURY: City of the 
 **Get the most recent version of FATAL FURY: City of the Wolves today!**
 
 ---
-**Last updated:** 2026-11-06 20:46:04 UTC
+**Last updated:** 2026-11-07 00:46:45 UTC
